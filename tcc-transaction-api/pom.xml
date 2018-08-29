@@ -10,5 +10,5 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>tcc-transaction-api</artifactId>
-    
+    <description>tcc-transaction-api</description>
 </project>
